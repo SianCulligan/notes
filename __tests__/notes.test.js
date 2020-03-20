@@ -16,6 +16,8 @@ let goodNote = new Input(['-a', 'this is a note!']);
 //RESOURCE: https://remarkablemark.org/blog/2018/04/10/jest-spyon-function/
 //RESOURCES: https://stackoverflow.com/questions/54750313/jest-spyon-method
 
+//Still Super confused on the spyOn() thing - need better resources & examples
+
 // bad note test
 describe('This test handles bad Note', () => {
   it('handles empty Note', () => {
