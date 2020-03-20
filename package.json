@@ -1,0 +1,29 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "## Project Name: Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SianCulligan/notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SianCulligan/notes/issues"
+  },
+  "homepage": "https://github.com/SianCulligan/notes#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "minimist": "^1.2.5"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
