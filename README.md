@@ -23,14 +23,12 @@ i.e.
 #### How to initialize/run your application (where applicable)
 
 - `npm start`
-
-#### How to use your library (where applicable)
+- `node index.js`
 
 #### Tests
 
 - How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- `npm test`
 
 #### UML
 
